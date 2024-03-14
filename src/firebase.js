@@ -6,12 +6,12 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCzOz3NEm5fV_TqkGrZm1xlxtnJdkT27wg",
-  authDomain: "netlix-new.firebaseapp.com",
+  apiKey: "",
+  authDomain: "",
   projectId: "netlix-new",
-  storageBucket: "netlix-new.appspot.com",
-  messagingSenderId: "122419961095",
-  appId: "1:122419961095:web:06386554b77a0f58e4b9a2"
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: ""
 };
 
 
