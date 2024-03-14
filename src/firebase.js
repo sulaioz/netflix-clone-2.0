@@ -6,7 +6,7 @@ import 'firebase/compat/firestore';
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCzOz3NEm5fV_TqkGrZm1xlxtnJdkT27wg",
+  apiKey: "",
   authDomain: "netlix-new.firebaseapp.com",
   projectId: "netlix-new",
   storageBucket: "netlix-new.appspot.com",
